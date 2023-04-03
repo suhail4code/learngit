@@ -19,8 +19,13 @@
 
 # finally:
 #     print("im always executed here")
+<<<<<<< HEAD
 print("This the change in this file to check the working of git version control from w3 school")
 a = int(input("Enter the value bt 5 and 9"))
+=======
+
+a = int(input("Enter the value bt 4 to 10"))
+>>>>>>> master
 
 if(a<5 or a> 9):
     raise VlaueError("Valse should be between 5 and 9")
