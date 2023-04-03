@@ -20,7 +20,7 @@
 # finally:
 #     print("im always executed here")
 
-a = int(input("Enter the value bt 5 and 9"))
+a = int(input("Enter the value bt 4 to 10"))
 
 if(a<5 or a> 9):
     raise VlaueError("Valse should be between 5 and 9")
