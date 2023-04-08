@@ -2,7 +2,6 @@
 # b=int(input("Enter the second number"))
 
 # print(a+b)
-from suhail import *
+import suhail
 
-welcome()
-
+suhail.welcome()
